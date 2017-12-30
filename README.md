@@ -10,3 +10,6 @@ If with the current implementation, you are getting Toast stating the payment is
 Note: If you are trying this then please inform me of the outcomes @malavshah502@gmail.com
 
 Demo Application: https://play.google.com/store/apps/details?id=com.malav.deeplinked
+
+If you dont know the UPI address, any account default upi address is as follow: 
+"AccountNumber@IFSCcode.ifsc.npci"
